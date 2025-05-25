@@ -5,3 +5,5 @@ function boooo(n) { // O(1)
 }
 
 boooo([1,2,3,4,5]) // O(1)
+
+// Big O = 2 + 2n = O(n)
